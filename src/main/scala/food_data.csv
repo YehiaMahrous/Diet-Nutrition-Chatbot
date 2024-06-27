@@ -1,0 +1,305 @@
+Name,Calories,Protein,Carbohydrates,Fats,Category
+Oatmeal,158,4,27,3.2,1
+Grilled Chicken Breast,165,31,0,3.6,2
+Salmon,206,22,0,12,3
+Almonds,162,6,6,14,4
+Greek Yogurt,100,17,6,0.7,1
+Turkey Sandwich,350,25,35,9,2
+Steak,679,62,0,48,3
+Nuts,175,5,6,16,4
+Scrambled Eggs,91,6,1,7,1
+Quinoa Salad,222,8,39,4,2
+Grilled Salmon,367,39,0,22,3
+Apple Slices,95,0,25,0,4
+Whole Wheat Toast,75,3,14,1,1
+Lentil Soup,258,18,37,7,2
+Banana Pancakes,350,8,60,8,1
+Tuna Salad,200,25,10,7,2
+Roast Beef,210,22,0,11,3
+Dark Chocolate,155,2,17,9,4
+Avocado Toast,240,5,23,15,1
+Pasta Primavera,365,14,53,10,2
+Pork Chop,260,35,0,14,3
+Granola Bar,120,3,20,4,4
+French Toast,149,6,15,7,1
+Vegetable Stir Fry,180,5,35,4,2
+Blueberry Muffin,375,5,67,11,1
+Chicken Caesar Salad,470,40,10,30,2
+Lamb Chops,400,30,0,30,3
+Pretzels,108,2.8,22.5,0.8,4
+Cottage Cheese,206,28,6.2,8.2,1
+Sushi Roll,300,6,48,8,2
+Duck Confit,403,27,0,33,3
+Popcorn,31,1,6,0,4
+Bagel with Cream Cheese,450,11,55,22,1
+Tomato Soup,192,5,25,9,2
+Chia Seed Pudding,210,4,17,14,1
+Lentil Burger,400,18,40,10,2
+Grilled Shrimp,120,23,0,2,3
+Trail Mix,693,20,64,44,4
+Smoothie Bowl,370,6,75,8,1
+Chicken Wrap,290,24,24,10,2
+Baked Cod,189,41,0,1,3
+Yogurt Parfait,150,10,20,2,4
+Omelette,154,11,2,12,1
+Veggie Pizza,285,12,36,10,2
+Pork Ribs,330,28,0,24,3
+Cheese Cubes,110,7,1,9,4
+Protein Shake,220,30,9,2,1
+Falafel Plate,330,13,31,17,2
+Roasted Turkey,135,25,0,2,3
+Spinach Salad,150,5,10,10,1
+Meatball Sub,480,20,45,22,2
+Grilled Tofu,70,8,2,4,3
+Cheese Crackers,150,3,18,8,4
+Fruit Smoothie,200,2,50,1,1
+Turkey Chili,240,17,30,7,2
+Baked Trout,210,30,0,8,3
+Rice Cakes,35,1,7,0,4
+Egg White Omelette,100,20,1,0,1
+Veggie Burger,124,10,9,4,2
+Roasted Chicken,220,25,0,10,3
+Chocolate Pudding,120,2,24,3,4
+Protein Bar,200,20,18,5,1
+Stuffed Peppers,150,6,16,6,2
+Pork Loin,190,29,0,7,3
+Fruit Salad,120,1,30,0,4
+Greek Salad,200,8,10,15,1
+Fish Tacos,300,25,35,10,2
+Roast Duck,400,52,0,28,3
+Nut Mix,180,5,15,14,4
+Overnight Oats,215,6,39,4,1
+Chicken Salad,350,30,10,20,2
+Grilled Mahi Mahi,145,30,0,1,3
+Rice Crisps,105,2,22,0.5,4
+Breakfast Burrito,300,15,35,15,1
+Beef Stew,235,20,15,10,2
+Pork Tenderloin,220,31,0,9,3
+Cheese Puffs,160,2,15,10,4
+Protein Pancakes,250,20,30,5,1
+Shrimp Pasta,400,25,50,10,2
+Roasted Duck Breast,240,52,0,1,3
+Chocolate Chip Cookies,160,2,20,8,4
+Egg Salad,140,6,1,10,1
+Spaghetti Bolognese,320,14,40,12,2
+Grilled Swordfish,200,22,0,12,3
+Peanut Butter Crackers,190,5,22,9,4
+Smoothie with Whey Protein,250,30,20,2,1
+Chicken Noodle Soup,150,10,18,4,2
+Baked Ham,190,24,0,10,3
+Fruit Gummies,100,0,25,0,4
+Yogurt with Honey,180,10,30,2,1
+Fish and Chips,500,25,65,25,2
+Grilled Lamb,310,30,0,22,3
+Chocolate Milk,208,8,26,8,4
+Avocado Salad,320,4,17,29,1
+Strawberries,32,0.7,7.7,0.3,1
+Broccoli,55,3.7,11.2,0.6,2
+Carrots,41,0.9,9.6,0.2,3
+Walnuts,185,4.3,3.9,18.5,4
+Kale,49,4.3,8.8,0.9,1
+Sweet Potato,86,1.6,20.1,0.1,2
+Tomatoes,18,0.9,3.9,0.2,3
+Pistachios,159,5.7,7.7,12.8,4
+Spinach,23,2.9,3.6,0.4,1
+Bell Peppers,31,1,6,0.3,2
+Eggplant,25,1,6,0.2,3
+Cashews,155,5.1,9.2,12.3,4
+Cucumber,16,0.7,3.6,0.2,1
+Zucchini,17,1.2,3.1,0.3,2
+Mushrooms,22,3.1,3.3,0.3,3
+Peanuts,161,7.3,4.6,14,4
+Watermelon,30,0.6,7.6,0.2,1
+Onions,40,1.1,9.3,0.1,2
+Garlic,149,6.4,33.1,0.5,3
+Almonds,164,6,6.1,14.2,4
+Grapes,69,0.7,18,0.2,1
+Radishes,16,0.7,3.4,0.1,2
+Green Beans,31,1.8,7,0.1,3
+Hazelnuts,178,4.2,4.7,17.2,4
+Oranges,47,0.9,11.8,0.1,1
+Whole Grain Bread,69,3.5,11.5,1,1
+Turkey Bacon,70,4,0,5,2
+Baked Beans,190,12,54,0.5,3
+Rice Pudding,150,3.5,30,2,4
+Oatmeal Cookies,50,1,8,2,1
+Chicken Tacos,250,20,20,10,2
+Pork Belly,518,9.4,0,53,3
+Cheese Pizza,272,12,34,9.5,4
+French Omelette,93,7,1,7,1
+Beef Burger,354,20,29,17,2
+Lamb Curry,310,25,4,22,3
+Ice Cream,137,2.3,16,7,4
+Baguette,175,6,36,1,1
+Chicken Alfredo,220,19,22,7,2
+Grilled Branzino,190,36,0,5,3
+Chocolate Cake,235,3,35,10,4
+Waffles,218,6,29,8,1
+Pasta Carbonara,365,18,37,14,2
+Duck Pate,200,14,2,16,3
+Caramel Popcorn,130,1,25,5,4
+Croissant,231,5,26,12,1
+Fish Pie,400,24,35,18,2
+Vegetable Lasagna,250,12,35,7,3
+Milk Chocolate,535,7.7,59.4,29.7,4
+Scotch Eggs,300,20,20,15,1
+Rye Bread,83,2.7,15.5,1,1
+Smoked Salmon,117,18,0,4,2
+Vegetable Quiche,200,12,20,10,3
+Hummus,166,7.9,14.3,9.6,4
+Granola,471,10,66,18,1
+Chicken Caesar Wrap,300,24,24,10,2
+Seared Tuna,184,40,0,1.3,3
+Pita Chips,130,3,19,5,4
+Banana Bread,196,2.6,33,6,1
+Beef Tacos,170,12,15,7,2
+Mussels,73,10,3.7,1.9,3
+Fruit Tart,420,4,50,20,4
+Bran Muffin,307,6,53,9,1
+Lamb Kebab,260,26,10,10,2
+Clam Chowder,201,10,16,10,3
+Macadamia Nuts,204,2.2,3.9,21.5,4
+Protein Muffin,190,15,20,5,1
+Chicken Quesadilla,290,28,20,10,2
+Grilled Halibut,115,23,0,2.5,3
+Energy Bar,250,10,30,10,4
+Sourdough Bread,120,4,22,1,1
+Pork Sausage,290,14,0,25,2
+Crab Cakes,286,14,24,16,3
+Gelato,160,4,25,7,4
+Multigrain Bagel,250,11,49,1.5,1
+Ciabatta,250,9,48,1.5,1
+Venison Steak,158,30,0,3,2
+Tofu Stir Fry,180,10,14,10,3
+Sesame Snaps,178,3,20,9,4
+Buckwheat Pancakes,183,4,33,3,1
+Chicken Tikka Masala,300,25,15,20,2
+Grilled Trout,190,40,0,5,3
+Raisin Bran,190,5,46,1,4
+Poached Eggs,143,12,0.7,9.9,1
+Beef Stroganoff,210,16,9,12,2
+Baked Snapper,218,45,0,2.5,3
+Fruit Scones,150,4,25,5,4
+Soy Milk,54,3.3,6.3,1.8,1
+Chicken Gyro,470,35,40,20,2
+Grilled Mackerel,305,20,0,25,3
+Oat Bran Muffin,120,5,25,3,4
+Quinoa Porridge,222,8,39,4,1
+Pork Goulash,240,18,12,14,2
+Roasted Quail,123,25,0,4,3
+Cinnamon Roll,140,2,30,2,4
+Soy Yogurt,94,6,10,2,1
+Lamb Shawarma,400,30,35,10,2
+Grilled Catfish,105,20,0,2.5,3
+Pumpkin Seeds,180,9,15,14,4
+Barley Soup,155,6,27,1,1
+Pita Bread,165,5.5,33,0.7,1
+Grilled Sardines,208,25,0,11,2
+Vegetable Tempura,150,2,15,10,3
+Rice Crackers,35,0.7,7.4,0.3,4
+Cornbread,173,3.4,28,4.7,1
+Chicken Parmesan,310,32,14,16,2
+Grilled Octopus,139,25,4.4,1.8,3
+Chocolate Biscotti,90,2,16,3,4
+Sesame Bagel,290,11,56,2,1
+Pork Chop Suey,216,23,9,11,2
+Baked Haddock,135,28,0,1,3
+Candied Pecans,131,1.1,7.6,11.2,4
+English Muffin,134,5,25,1,1
+Beef Gyro,599,24,61,30,2
+Grilled Eel,375,31,0,25,3
+Peanut Brittle,138,2,20,5,4
+Biscuits and Gravy,356,8,26,24,1
+Chicken Fajitas,300,26,20,12,2
+Baked Tilapia,128,26,0,2.7,3
+Marshmallows,159,1.2,40.3,0,4
+Soy Cheese,57,6.4,2.3,2.7,1
+Beef Enchiladas,318,16,31,15,2
+Grilled Scallops,100,20,5,0.5,3
+Chocolate Truffles,220,2,20,14,4
+Focaccia,142,3,27,2,1
+Garlic Bread,350,13,42,14,1
+Chicken Nuggets,303,15,18,18,2
+Fish Sticks,218,15,20,10,3
+Pretzel Rods,108,2.8,22.5,0.8,4
+Zucchini Bread,196,3,30,9,1
+Beef Burrito,389,17,53,11,2
+Grilled Lobster,129,27,0,1.5,3
+Chocolate Muffin,410,5,50,22,4
+Pumpernickel Bread,80,2.7,15.5,0.5,1
+Chicken Pot Pie,612,25,54,34,2
+Baked Scallops,200,14,5,14,3
+Caramel Apples,190,0,51,0,4
+Sourdough Pancakes,110,3,19,1,1
+Beef Chili,256,15,30,7,2
+Grilled Swordfish,146,20,0,7,3
+Sugar Cookies,72,0.5,12,2,4
+Raisin Toast,85,2,17,1,1
+Chicken Enchiladas,318,16,31,15,2
+Baked Catfish,105,20,0,2.5,3
+Graham Crackers,59,1,11,1.5,4
+Corn Muffin,274,5,41,10,1
+Pork Carnitas,210,23,0,12,2
+Grilled Shrimp Skewers,120,23,0,2,3
+Chocolate Fondue,262,3,34,14,4
+Challah Bread,115,4,20,2,1
+Garlic Knots,220,6,25,11,1
+Buffalo Wings,430,38,0,30,2
+Clam Pizza,250,12,29,10,3
+Chocolate Eclair,262,3,31,15,4
+Corn Dogs,220,6,21,12,1
+Beef Wellington,490,24,23,30,2
+Grilled Cheese Sandwich,291,11,26,16,3
+Peanut Butter Cookies,72,1.5,8,4,4
+Potato Skins,150,8,15,7,1
+Chicken Alfredo Pizza,290,16,30,12,2
+Fried Calamari,400,25,18,25,3
+Cinnamon Buns,880,13,146,24,4
+Eggplant Parmesan,310,15,35,14,1
+Pork Bao Buns,250,10,35,7,2
+Baked Brie,180,12,0,15,3
+Mint Chocolate Chip Ice Cream,160,2,20,9,4
+French Baguette,175,6,36,1,1
+Chicken and Waffles,590,35,55,30,2
+Grilled Portobello Mushrooms,45,5,4,1,3
+Salted Caramel Macarons,78,1,10,4,4
+Churros,116,1,16,5,1
+Pulled Pork Sandwich,417,30,39,13,2
+Fried Shrimp,206,24,6,12,3
+Gummy Bears,140,2,32,0,4
+Bruschetta,70,2,10,2,1
+Meatloaf,175,14,9,8,2
+Grilled Mahi Mahi Tacos,300,25,35,10,3
+Marshmallow Treats,90,1,17,2,4
+Sausage Roll,480,18,38,30,1
+Chicken Tikka Kebab,150,22,5,4,2
+Fried Rice,520,14,85,15,1
+Chicken Curry,290,25,10,15,2
+Lamb Gyro,600,25,50,30,3
+Caramel Latte,250,10,35,7,4
+Beef Jerky,116,9.4,3.1,7.3,1
+Pork Dumplings,250,15,20,12,2
+Fried Plantains,218,1,58,0.2,3
+Chocolate Croissant,237,5,26,13,4
+Bagel with Lox,360,15,50,10,1
+Spaghetti with Meatballs,410,21,53,14,2
+Bacon Cheeseburger,650,35,40,35,3
+Milkshake,560,14,91,21,4
+Pastrami Sandwich,350,24,35,12,1
+Chicken Pad Thai,590,27,65,20,2
+Grilled Ribeye Steak,650,45,0,48,3
+Key Lime Pie,450,7,67,17,4
+Philly Cheesesteak,900,55,80,40,1
+Pork Rinds,515,57,0,31,2
+Fried Zucchini,340,7,30,22,3
+Cotton Candy,105,0,27,0,4
+Corned Beef Hash,380,24,19,22,1
+Chicken Tenders,290,28,18,15,2
+Grilled Lamb Chops,330,30,0,24,3
+Cupcakes,195,1.5,22,10,4
+French Dip Sandwich,440,36,35,18,1
+Beef Tamales,260,12,25,12,2
+Fried Catfish,199,15,11,12,3
+Caramel Popcorn,130,1,25,5,4
+Sausage and Peppers,400,23,9,30,1
+Chicken Biryani,480,25,45,20,2
